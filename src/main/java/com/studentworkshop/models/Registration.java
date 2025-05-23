@@ -6,7 +6,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import java.time.LocalDate;  
-import java.time.LocalTime;  // Import for LocalTime
+import java.time.LocalTime;  
 
 @Entity
 @Table(name = "registrations")
