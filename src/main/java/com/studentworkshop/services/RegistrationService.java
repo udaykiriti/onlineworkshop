@@ -6,7 +6,6 @@ import com.studentworkshop.models.Workshop;
 import com.studentworkshop.repositories.RegistrationRepository;
 import com.studentworkshop.repositories.UserRepository;
 import com.studentworkshop.repositories.WorkshopRepository;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
