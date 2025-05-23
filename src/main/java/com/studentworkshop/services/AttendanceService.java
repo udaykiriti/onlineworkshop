@@ -6,12 +6,10 @@ import com.studentworkshop.models.Workshop;
 import com.studentworkshop.repositories.AttendanceRepository;
 import com.studentworkshop.repositories.RegistrationRepository;
 import com.studentworkshop.repositories.WorkshopRepository;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.List;
