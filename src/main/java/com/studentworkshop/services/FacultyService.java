@@ -2,10 +2,8 @@ package com.studentworkshop.services;
 
 import com.studentworkshop.models.Faculty;
 import com.studentworkshop.repositories.FacultyRepository;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 import java.util.Optional;
 
